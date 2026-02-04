@@ -2,3 +2,14 @@
 
 
 ## Hi there 👋
+I am a Full-Stack Developer with
+more than five years of
+experience developing web and
+mobile applications. I contributed
+to creating CRM which developed
+into ERP, increasing operational
+efficiency, and implementing
+paperless systems in various
+divisions. With a focus on
+efficiency, scalability and ease of
+use,
